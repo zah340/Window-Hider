@@ -1,4 +1,4 @@
-Winodow Hider is a small Windows WPF utility for privacy during screen sharing/recording: it helps reduce accidental exposure of sensitive windows while streaming.  
+Window Hider is a small Windows WPF utility for privacy during screen sharing/recording: it helps reduce accidental exposure of sensitive windows while streaming.  
 Under the hood, it relies on Windows’ display-affinity behavior (e.g., excluding a window from capture on supported systems).
 
 ## Features
